@@ -4,8 +4,8 @@ A SpaceX Clone application built with ReactJS that allows users to explore Space
 
 ![Movie 22_1](https://github.com/thisistanzeela/Tanzeela_Mansoor-FrontendDeveloper/assets/86124816/dd552192-3aa8-41a1-8bc5-b2c7e7033ac4)
 
-[![Video](![image](https://github.com/thisistanzeela/Tanzeela_Mansoor-FrontendDeveloper/assets/86124816/e08564f6-aa35-4fd1-96e7-c43dc5527ece)
-)](https://drive.google.com/file/d/1P4Ef0B1TTuoJQfXsry5OpKcJ_emSiOt_/view)
+[![Video](https://github.com/thisistanzeela/Tanzeela_Mansoor-FrontendDeveloper/assets/86124816/e08564f6-aa35-4fd1-96e7-c43dc5527ece)
+](https://drive.google.com/file/d/1P4Ef0B1TTuoJQfXsry5OpKcJ_emSiOt_/view)
 
 ## Table of Contents
 - [Techstack](#techstack)
