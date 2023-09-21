@@ -7,6 +7,7 @@ A SpaceX Clone application built with ReactJS that allows users to explore Space
 [![Video](https://example.com/thumbnail.jpg)](https://drive.google.com/file/d/1P4Ef0B1TTuoJQfXsry5OpKcJ_emSiOt_/view)
 
 ## Table of Contents
+- [Techstack](#techstack)
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -18,6 +19,13 @@ A SpaceX Clone application built with ReactJS that allows users to explore Space
 - [Acknowledgments](#acknowledgments)
 - [Contact](#contact)
 
+## Techstack
+
+- ReactJS
+- Node.js
+- HTML/CSS
+- Redux
+- Context
 
 ## Features
 
