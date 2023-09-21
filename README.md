@@ -67,7 +67,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     `npm start`
     # or
     `yarn start`
-5. Open your web browser and visit `http://localhost:3000` to view the application.
+5. Open your web browser and visit `https://spacex-assignment-jebj.onrender.com/` to view the application.
 
 ## Usage
 Explore rockets and capsules from SpaceX.
