@@ -7,6 +7,9 @@ A SpaceX Clone application built with ReactJS that allows users to explore Space
 ## Project Video
 [Watch the Video](https://drive.google.com/file/d/1P4Ef0B1TTuoJQfXsry5OpKcJ_emSiOt_/view)
 
+## Project Link
+[Visit the Hosted Website](https://spacex-assignment-jebj.onrender.com/)
+
 ## Table of Contents
 - [Techstack](#techstack)
 - [Features](#features)
@@ -51,11 +54,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. Clone the repository:
 
-   bash
+   ```bash
    git clone https://github.com/thisistanzeela/Tanzeela_Mansoor-FrontendDeveloper.git
    
 2. Navigate to the project directory:
-   bash
+   ```bash
    cd Tanzeela_Mansoor-FrontendDeveloper
    
 3.Install the dependencies:
