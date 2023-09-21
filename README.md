@@ -61,15 +61,14 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```bash
    cd Tanzeela_Mansoor-FrontendDeveloper
    
-3.Install the dependencies:
-    `npm install`
-    # or
-    `yarn install`
-
-4.Start the development server:
-    `npm start`
-    # or
-    `yarn start`
+3. Install the dependencies:
+   ```bash
+   npm install
+   
+4. Start the development server:
+   ```bash
+   npm start
+   
 5. Open your web browser and visit `https://spacex-assignment-jebj.onrender.com/` to view the application.
 
 ## Usage
